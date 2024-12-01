@@ -7,9 +7,8 @@ Clone the repository.
 
 Navigate to the root directory where the docker-compose.yml file is located.
 
-Build and start the services using Docker Compose:
+Build and start the services using Docker Compose inside the Terminal :
 
-sh
 docker-compose up --build
 Access the services via their respective endpoints:
 
